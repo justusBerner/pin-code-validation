@@ -24,7 +24,7 @@
 						dot.className += " correct";
 					});
 					document.body.className += " correct";
-					window.location.
+					window.location.href="https://app.livelokaatio.fi/?page_id=22";
 
 				}
 				setTimeout(function() {
